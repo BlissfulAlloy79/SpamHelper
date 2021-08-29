@@ -1,0 +1,2 @@
+# SpamHelper
+for better spamming
